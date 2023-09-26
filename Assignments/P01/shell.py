@@ -287,8 +287,8 @@ if __name__ == "__main__":
                 if history_cursor - 1 > 0:
                     history_cursor -= 1
                     cmd = History.get_history_item(history_cursor)
-                print_cmd(cmd)
                 line_cursor = len(cmd)
+                print_cmd(cmd)
 
             elif direction == b"P":  # down arrow pressed
                 # get the NEXT command from history (if there is one)
@@ -296,8 +296,9 @@ if __name__ == "__main__":
                 if history_cursor < History.get_current_history_length():
                     history_cursor += 1
                     cmd = History.get_history_item(history_cursor)
-                print_cmd(cmd)
                 line_cursor = len(cmd)
+                print_cmd(cmd)
+
                 # cmd = cmd[:-1]
 
             elif direction == b"M":  # right arrow pressed
