@@ -4,8 +4,8 @@
 #### Group Members
 
 
-- Divya podila
-- soundarya boyeena
+- Divya Podila
+- Soundarya Boyeena
 - Rakesh Rapalli
 
 #### Overview:
