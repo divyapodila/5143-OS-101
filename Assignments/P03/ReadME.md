@@ -10,7 +10,7 @@
 
 #### Overview:
 This is a project written in python that implements a CPU Scheduling Simulation.
-This project will implement a Simulation of CPU to -
+This project will implement a Simulation of CPU for different Scheduling Algorithms like "FCFS", "Priority Based" and "Round Robin" to -
 -Maximizing throughput (the total amount of work completed per time unit)
 -Minimizing wait time (time from work becoming ready until the first point it begins execution) (We define it slightly differently)
 -Minimizing latency or response time (time from work becoming ready until it is finished)
