@@ -32,7 +32,9 @@ Then run the Sim.py
  
  -Arguments:
  
- -> sched = RR for RoundRobin Scheduling  (Enter "RR" in caps only since, Case sensitive)
+ -> sched Type:
+ 
+          = RR for RoundRobin Scheduling  (Enter "RR" in caps only since, Case sensitive)
  
           = PB for Priority Based Scheduling (Enter "PB" in caps only)
           
