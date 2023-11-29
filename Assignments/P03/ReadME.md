@@ -29,6 +29,7 @@ Then run the Sim.py
 
 ***Command***:
  ***python sim.py sched=PB  cpus=4 ios=2 input=cpu_intense_500.dat timedelay=0.1***
+ 
  Arguments:
  -> sched = RR for RoundRobin Scheduling  (Enter "RR" in caps only since, Case sensitive)
           = PB for Priority Based Scheduling (Enter "PB" in caps only)
@@ -37,10 +38,3 @@ Then run the Sim.py
  -> cpus and ios = Select any number of cpus and ios ( if no value is given , default values "4" and "2" wil be considered)
  -> input =  input file (file.dat) format
  -> timedelay =  Enter desired time delay, between 0.01 to 1 0.01 being slowest and 1 being highest
-
-
-Not implemented:
-
--> History command : (Optional)
-
-
