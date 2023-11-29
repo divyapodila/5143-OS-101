@@ -30,7 +30,7 @@ Then run the Sim.py
 ***Command***:
  ***python sim.py sched=PB  cpus=4 ios=2 input=cpu_intense_500.dat timedelay=0.1***
  
- Arguments:
+ -Arguments:
  -> sched = RR for RoundRobin Scheduling  (Enter "RR" in caps only since, Case sensitive)
           = PB for Priority Based Scheduling (Enter "PB" in caps only)
           = FCFS for First Come First Serve Scheduling (Enter "FCFS" in caps only)
