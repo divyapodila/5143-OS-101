@@ -47,3 +47,9 @@ Then run the Sim.py
  -> input =  input file (file.dat) format
  
  -> timedelay =  Enter desired time delay, between 0.01 to 1 0.01 being slowest speed of simulation and 1 being fastest speed
+
+ ***DearPyGUI***
+
+
+ ***DearPyGui Simulation Window***
+ ![image](https://github.com/divyapodila/5143-Opsys-101/blob/main/Assignments/P02/Work_Distribution.png)
