@@ -52,4 +52,4 @@ Then run the Sim.py
 
 
  ***DearPyGui Simulation Window***
- ![image](https://github.com/divyapodila/5143-Opsys-101/blob/main/Assignments/P02/Work_Distribution.png)
+ ![image]([https://github.com/divyapodila/5143-Opsys-101/blob/main/Assignments/P02/Work_Distribution.png](https://github.com/divyapodila/5143-Opsys-101/blob/main/Assignments/P03/DearPyGUI_Simulation.png)https://github.com/divyapodila/5143-Opsys-101/blob/main/Assignments/P03/DearPyGUI_Simulation.png)
